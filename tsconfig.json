@@ -12,7 +12,7 @@
     //   "@modules/*": ["modules/*"],
     //   "@config/*": ["config/*"],
     //   "@shared/*": ["shared/*"]
-    // }, Atalhos para evitar ficar coocando "../../../../"
+    // }, Atalhos para evitar ficar colocando "../../../../"
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
